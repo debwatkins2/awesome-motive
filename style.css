@@ -1,0 +1,68 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.inner {
+    border: 6px solid #e5e6ea;
+    width: 900px;
+    margin: 5% 0 0 18%;
+}
+.load-bar {
+    color: black;
+    text-align: center;
+    padding: 1%;
+    background-color: #e5e6ea;
+    width: 90%;
+    margin: 2% 0 3% 4%;
+}
+h4  {
+    width: 75%;
+    font-size: 105%;
+    color: #727171;
+    text-align: center;
+    margin: 0 0 5% 14%;
+
+}
+.checklist {
+    width: 40%;
+    display: inline-block;
+}
+.checklist img {
+    width: 93%;
+    height: 400px;
+    box-shadow: 4px 5px 3px #cacbce;
+    margin-left: 10%;
+    margin-bottom: 6%;
+}
+.call-to-action {
+    width: 55%;
+    display: inline-block;
+    float: right;
+}
+h1  {
+    width: 80%;
+    color: #727171;
+    font-size: 210%;
+    font-weight: 200;
+    line-height: 1.5;
+    margin: 2% 0 7% 6%;
+}
+span  {
+    color: black;
+    font-weight: bold;
+}
+input {
+    width: 78.5%;
+    color: #727171;
+    padding: 3%;
+    margin: 0 0 4% 6%;
+}
+button  {
+  width: 84.5%;
+  color: white;
+  font-size: 105%;
+  font-weight: bold;
+  padding: 3%;
+  background-color: #229b32;
+  border: .75px solid #727171;
+  margin: 0 0 2% 6%;
+}
